@@ -5,6 +5,9 @@ using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 
+
+//prueba01
+
 namespace CFFLORES.AccesoDatos
 {
     public class DAOProducto
